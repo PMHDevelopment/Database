@@ -1,0 +1,6 @@
+database:
+  user: ''
+  ip: localhost
+  port: '27017'
+  password: ''
+  database: test
